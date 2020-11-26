@@ -578,24 +578,24 @@ Anonymous Random Hybridization (FeARH) on medical records</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(310).pdf" style="text-decoration:none;">An On-Device Federated Learning Approach for Cooperative Anomaly Detection </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(311).pdf" style="text-decoration:none;">Machine Learning for Optimal Parameter Prediction in Quantum Key Distribution</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(312).pdf" style="text-decoration:none;">Parameters optimization and real-time calibration of Measurement-Device-Independent Quantum Key Distribution Network based on BackPropagation Artificial Neural Network</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(313).pdf" style="text-decoration:none;">Optimizing Quantum Error Correction Codes with Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(311).pdf" style="text-decoration:none;">Decentralized Federated Learning via SGD over Wireless D2D Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(312).pdf" style="text-decoration:none;">Federated Over-the-Air Subspace Learning and Tracking from Incomplete Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(313).pdf" style="text-decoration:none;">Energy-Efficient Federated Edge Learning with Joint Communication and Computation Design</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(314).pdf" style="text-decoration:none;">Deep ToC: A New Method for Estimating the Solutions of PDEs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(314).pdf" style="text-decoration:none;">Performance Analysis and Optimization in Privacy-Preserving Federated Learning</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(315).pdf" style="text-decoration:none;">Variational quantum simulation of general processes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(315).pdf" style="text-decoration:none;">Adaptive Federated Optimization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(316).pdf" style="text-decoration:none;">QuCumber: wavefunction reconstruction with neural networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(316).pdf" style="text-decoration:none;">Federating Recommendations Using Differentially Private Prototypes</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(317).pdf" style="text-decoration:none;">Quantum algorithm and quantum circuit for A-Optimal Projection: dimensionality reduction</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(317).pdf" style="text-decoration:none;">BASGD: Buffered Asynchronous SGD for Byzantine Learning</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(318).pdf" style="text-decoration:none;">Extrapolation of quantum observables with Gaussian processes</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(318).pdf" style="text-decoration:none;">Adaptive Federated Learning With Gradient Compression in Uplink NOMA</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(319).pdf" style="text-decoration:none;">The geometry of quantum learning</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(319).pdf" style="text-decoration:none;">Evaluation Framework For Large-scale Federated Learning</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(320).pdf" style="text-decoration:none;">Improved Bounds on Quantum Learning Algorithms</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(320).pdf" style="text-decoration:none;">Gradient Statistics Aware Power Control for Over-the-Air Federated Learning</a></li>
 
  
  
