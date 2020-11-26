@@ -515,71 +515,69 @@ Anonymous Random Hybridization (FeARH) on medical records</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(272).pdf" style="text-decoration:none;">Learning to Detect Malicious Clients for Robust Federated Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(273).pdf" style="text-decoration:none;">Quantum data compression by principal component analysis</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(274).pdf" style="text-decoration:none;">Free energies of Boltzmann Machines: self-averaging, annealed and replica symmetric approximations in the thermodynamic limit</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(275).pdf" style="text-decoration:none;">Machine learning density functional theory for the Hubbard model</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(276).pdf" style="text-decoration:none;">Quantum advantage in training binary neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(277).pdf" style="text-decoration:none;">Quantum-inspired classical algorithms for principal component analysis and supervised clustering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(273).pdf" style="text-decoration:none;">Cooperative Learning via Federated Distillation over Fading Channels</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(274).pdf" style="text-decoration:none;">Knowledge Federation: A Unified and Hierarchical Privacy-Preserving AI Framework</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(275).pdf" style="text-decoration:none;">Faster On-Device Training Using New Federated Momentum Algorithm</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(276).pdf" style="text-decoration:none;">Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(277).pdf" style="text-decoration:none;">Salvaging Federated Learning by Local Adaptation</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(278).pdf" style="text-decoration:none;"> Deep Learning of Robust and High-Precision Quantum Controls </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(279).pdf" style="text-decoration:none;">Machine learning for molecular dynamics with strongly correlated electrons</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(278).pdf" style="text-decoration:none;"> Federated Matrix Factorization: Algorithm Design and Application to Data Clusterin </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(279).pdf" style="text-decoration:none;">Towards Federated Learning: Robustness to Extremely Unbalanced Data for Edge Computing</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(280).pdf" style="text-decoration:none;">An Artificial Neuron Implemented on an Actual Quantum Processor </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(281).pdf" style="text-decoration:none;">Artificial neural networks for density-functional optimizations in fermionic systems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(282).pdf" style="text-decoration:none;">Adversarial Uncertainty Quantification in Physics-Informed Neural Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(283).pdf" style="text-decoration:none;">Efficient prediction of 3D electron densities using machine learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(280).pdf" style="text-decoration:none;">Wireless Federated Learning with Local Differential Privacy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(281).pdf" style="text-decoration:none;">Federated Learning of a Mixture of Global and Local Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(282).pdf" style="text-decoration:none;">Federated Neural Architecture Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(283).pdf" style="text-decoration:none;">Federated Learning with Matched Averaging</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(284).pdf" style="text-decoration:none;">Neural network state estimation for full quantum state tomography</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(284).pdf" style="text-decoration:none;">Federated Extra-Trees with Privacy Preserving</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(285).pdf" style="text-decoration:none;">Experimental Simultaneous Learning of Multiple Non-Classical Correlations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(285).pdf" style="text-decoration:none;">Distributed Non-Convex Optimization with Sublinear Speedup under Intermittent Client Availability</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(286).pdf" style="text-decoration:none;">Neural Belief-Propagation Decoders for Quantum Error-Correcting Codes</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(286).pdf" style="text-decoration:none;">Distributed Optimization over Block-Cyclic Data</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(287).pdf" style="text-decoration:none;">Advances in Quantum Reinforcement Learning</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(287).pdf" style="text-decoration:none;">Personalized Federated Learning: A Meta-Learning Approach</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(288).pdf" style="text-decoration:none;">Energy Levels of One Dimensional Anharmonic Oscillator via Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(288).pdf" style="text-decoration:none;">Federated Learning in the Sky: Joint Power Allocation and Scheduling with UAV Swarms</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(289).pdf" style="text-decoration:none;">Deep Learning and Density Functional Theory</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(289).pdf" style="text-decoration:none;">PrivacyFL: A simulator for privacy-preserving and secure federated learning</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(290).pdf" style="text-decoration:none;">fPINNs: Fractional Physics-Informed Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(290).pdf" style="text-decoration:none;">Federated pretraining and fine tuning of BERT using clinical notes from multiple silos</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(291).pdf" style="text-decoration:none;">Physics-aware Deep Generative Models for Creating Synthetic Microstructures</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(292).pdf" style="text-decoration:none;">Developing a Bubble Chamber Particle Discriminator Using Semi-Supervised Learning</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(293).pdf" style="text-decoration:none;">Estimating of the inertial manifold dimension for a chaotic attractor of complex Ginzburg-Landau equation using a
-neural network</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(291).pdf" style="text-decoration:none;">Dynamic Federated Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(292).pdf" style="text-decoration:none;">Uncertainty Principle for Communication Compression in Distributed and Federated Learning and the Search for an Optimal Compressor</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(293).pdf" style="text-decoration:none;">Anonymizing Data for Privacy-Preserving Federated Learning</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(294).pdf" style="text-decoration:none;">Quantum error correction for the toric code using deep reinforcement learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(294).pdf" style="text-decoration:none;">Overlap Local-SGD: An Algorithmic Approach to Hide Communication Delays in Distributed SGD</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(295).pdf" style="text-decoration:none;">Using a Recurrent Neural Network to Reconstruct Quantum Dynamics of a Superconducting Qubit from Physical Observations</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(296).pdf" style="text-decoration:none;">Variational optimization in the AI era: Computational Graph States and Supervised Wave-function Optimization</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(297).pdf" style="text-decoration:none;">Classifying Snapshots of the Doped Hubbard Model with Machine Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(295).pdf" style="text-decoration:none;">Coded Federated Learning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(296).pdf" style="text-decoration:none;">Communication-Efficient Edge AI: Algorithms and Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(297).pdf" style="text-decoration:none;">Communication-Efficient Decentralized Learning with Sparsification and Adaptive Peer Selection</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(298).pdf" style="text-decoration:none;">Designing neural network based decoders for surface codes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(298).pdf" style="text-decoration:none;">FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(299).pdf" style="text-decoration:none;">Quantum topology identification with deep neural networks and quantum walks</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(299).pdf" style="text-decoration:none;">A Practical Privacy-preserving Method in Federated Deep Learning</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(300).pdf" style="text-decoration:none;">Divergence of predictive model output as indication of phase transitions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(300).pdf" style="text-decoration:none;">Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(301).pdf" style="text-decoration:none;">Designing quantum experiments with a genetic algorithm</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(301).pdf" style="text-decoration:none;">Three Approaches for Personalization with Applications to Federated Learning</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(302).pdf" style="text-decoration:none;">Phase transition encoded in neural network</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(302).pdf" style="text-decoration:none;">Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(303).pdf" style="text-decoration:none;">Approximating the solution to wave propagation using deep neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(304).pdf" style="text-decoration:none;">Boltzmann Generators – Sampling Equilibrium States of Many-Body Systems with Deep Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(305).pdf" style="text-decoration:none;">Enhancing the efficiency of quantum annealing via reinforcement: A path-integral Monte Carlo simulation of the quantum
-reinforcement algorithm</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(306).pdf" style="text-decoration:none;">Quantum algorithms for feedforward neural networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(307).pdf" style="text-decoration:none;">A hybrid machine-learning algorithm for designing quantum experiments</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(303).pdf" style="text-decoration:none;">Stochastic-Sign SGD for Federated Learning with Theoretical Guarantees</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(304).pdf" style="text-decoration:none;">Device Heterogeneity in Federated Learning: A Superquantile Approach</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(305).pdf" style="text-decoration:none;">HFEL: Joint Edge Association and Resource Allocation for Cost-Efficient Hierarchical Federated Edge Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(306).pdf" style="text-decoration:none;">LASG: Lazily Aggregated Stochastic Gradients for Communication-Efficient Distributed Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(307).pdf" style="text-decoration:none;">Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(308).pdf" style="text-decoration:none;">q-means: A quantum algorithm for unsupervised machine learning </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(309).pdf" style="text-decoration:none;">Adaptive Quantum State Tomography with Neural Networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(308).pdf" style="text-decoration:none;">Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(309).pdf" style="text-decoration:none;">FedCoin: A Peer-to-Peer Payment System for Federated Learning</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(310).pdf" style="text-decoration:none;">Machine Learning as a universal tool for quantitative investigations of phase transitions </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(310).pdf" style="text-decoration:none;">An On-Device Federated Learning Approach for Cooperative Anomaly Detection </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(311).pdf" style="text-decoration:none;">Machine Learning for Optimal Parameter Prediction in Quantum Key Distribution</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(312).pdf" style="text-decoration:none;">Parameters optimization and real-time calibration of Measurement-Device-Independent Quantum Key Distribution Network based on BackPropagation Artificial Neural Network</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(313).pdf" style="text-decoration:none;">Optimizing Quantum Error Correction Codes with Reinforcement Learning</a></li>
