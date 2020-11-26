@@ -868,7 +868,7 @@ The Case of Affine Distribution Shifts</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(469).pdf" style="text-decoration:none;">FedOpt: Towards Communication Efficiency and Privacy Preservation in Federated Learning</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(470).pdf" style="text-decoration:none;">Federated Learning of a Mixture of Global and Local Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(470).pdf" style="text-decoration:none;">An Overview on Application of Machine Learning Techniques in Optical Networks</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(471).pdf" style="text-decoration:none;">A Learning-based Incentive Mechanism for Federated Learning</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(472).pdf" style="text-decoration:none;">DeCaf: Iterative Collaborative Processing over the Edge</a></li>
 
