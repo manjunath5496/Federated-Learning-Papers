@@ -599,6 +599,379 @@ Anonymous Random Hybridization (FeARH) on medical records</a></li>
 
  
  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(321).pdf" style="text-decoration:none;">Threats to Federated Learning: A Survey</a></li>   
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(322).pdf" style="text-decoration:none;">Real-time Federated Evolutionary Neural Architecture Search</a></li>     
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(323).pdf" style="text-decoration:none;">Practical Privacy Preserving POI Recommendation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(324).pdf" style="text-decoration:none;">Federated Continual Learning with Adaptive Parameter Communication</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(325).pdf" style="text-decoration:none;">Ternary Compression for Communication-Efficient Federated Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(326).pdf" style="text-decoration:none;">FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(327).pdf" style="text-decoration:none;">Communication-Efficient Massive UAV Online Path Control: Federated Learning Meets Mean-Field Game Theory</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(328).pdf" style="text-decoration:none;">Policy-Based Federated Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(329).pdf" style="text-decoration:none;">Privacy-preserving Weighted Federated Learning within Oracle-Aided MPC Framework</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(330).pdf" style="text-decoration:none;"> A Compressive Sensing Approach for Federated Learning over Massive MIMO Communication Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(331).pdf" style="text-decoration:none;">Federated Visual Classification with Real-World Data Distribution</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(332).pdf" style="text-decoration:none;">The Future of Digital Health with Federated Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(333).pdf" style="text-decoration:none;">Survey of Personalization Techniques for Federated Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(334).pdf" style="text-decoration:none;">Privacy-preserving Traffic Flow Prediction: A Federated Learning Approach</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(335).pdf" style="text-decoration:none;">FedNER: Privacy-preserving Medical Named Entity Recognition with Federated Learning</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(336).pdf" style="text-decoration:none;">Federated Learning for Task and Resource Allocation in Wireless High Altitude Balloon Networks</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(337).pdf" style="text-decoration:none;">Privacy-Preserving News Recommendation Model Learning</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(338).pdf" style="text-decoration:none;">Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(339).pdf" style="text-decoration:none;">HierTrain: Fast Hierarchical Edge AI Learning with Hybrid Parallelism in Mobile-Edge-Cloud Computing</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(340).pdf" style="text-decoration:none;">FedSel: Federated SGD under Local Differential Privacy with Top-k Dimension Selection </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(341).pdf" style="text-decoration:none;">Learn to Forget: User-Level Memorization Elimination in Federated Learning </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(342).pdf" style="text-decoration:none;">Differentially Private Federated Learning for Resource-Constrained Internet of Things</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(343).pdf" style="text-decoration:none;">Semi-Federated Learning</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(344).pdf" style="text-decoration:none;">Federated Residual Learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(345).pdf" style="text-decoration:none;">Adaptive Personalized Federated Learning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(346).pdf" style="text-decoration:none;">Inverting Gradients - How easy is it to break privacy in federated learning?</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(347).pdf" style="text-decoration:none;">Scheduling for Cellular Federated Edge Learning with Importance and Channel Awareness</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(348).pdf" style="text-decoration:none;"> Beyond privacy regulations: an ethical approach to data usage in transportation</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(349).pdf" style="text-decoration:none;">A Blockchain-based Decentralized Federated Learning Framework with Committee Consensus</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(350).pdf" style="text-decoration:none;">From Local SGD to Local Fixed-Point Methods for Federated Learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(351).pdf" style="text-decoration:none;">Federated Learning Meets Contract Theory: Energy-Efficient Framework for Electric Vehicle Networks</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(352).pdf" style="text-decoration:none;">PrivFL: Practical Privacy-preserving Federated Regressions on High-dimensional Data over Mobile Networks</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(353).pdf" style="text-decoration:none;">Evaluating the Communication Efficiency in Federated Learning Algorithms</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(354).pdf" style="text-decoration:none;">FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(355).pdf" style="text-decoration:none;">Towards Federated Learning in UAV-Enabled Internet of Vehicles: A Multi-Dimensional Contract-Matching Approach</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(356).pdf" style="text-decoration:none;">Resource Management for Blockchain-enabled Federated Learning: A Deep Reinforcement Learning Approach</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(357).pdf" style="text-decoration:none;">Federated Multi-view Matrix Factorization for Personalized Recommendations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(358).pdf" style="text-decoration:none;">Client Selection and Bandwidth Allocation in Wireless Federated Learning Networks: A Long-Term Perspective</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(359).pdf" style="text-decoration:none;">An Overview of Federated Deep Learning Privacy Attacks and Defensive Strategies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(360).pdf" style="text-decoration:none;">Towards Realistic Byzantine-Robust Federated Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(361).pdf" style="text-decoration:none;">Federated Machine Learning for Intelligent IoT via Reconfigurable Intelligent Surface</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(362).pdf" style="text-decoration:none;">Differentially Private AirComp Federated Learning with Power Adaptation Harnessing Receiver Noise</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(363).pdf" style="text-decoration:none;">Decentralized Differentially Private Segmentation with PATE</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(364).pdf" style="text-decoration:none;">Secure Federated Learning in 5G Mobile Networks</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(365).pdf" style="text-decoration:none;">On the Design of Communication Efficient Federated Learning over Wireless Networks</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(366).pdf" style="text-decoration:none;">Asymmetrical Vertical Federated Learning</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(367).pdf" style="text-decoration:none;">Network-Aware Optimization of
+Distributed Learning for Fog Computing</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(368).pdf" style="text-decoration:none;">Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(369).pdf" style="text-decoration:none;">Local Differential Privacy based Federated Learning for Internet of Things</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(370).pdf" style="text-decoration:none;">Optimizing Over-the-Air Computation in IRS-Aided C-RAN Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(371).pdf" style="text-decoration:none;">Lottery Hypothesis based Unsupervised Pre-training for Model Compression in Federated Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(372).pdf" style="text-decoration:none;">Data Poisoning Attacks on Federated Machine Learning</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(373).pdf" style="text-decoration:none;">Federated Learning with Only Positive Labels</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(374).pdf" style="text-decoration:none;">Hierarchically Fair Federated LearningReal-World Image Datasets for Federated Learning</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(375).pdf" style="text-decoration:none;">A Framework for Evaluating Gradient Leakage Attacks in Federated Learning</a></li>
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(376).pdf" style="text-decoration:none;">Enhancing Privacy via Hierarchical Federated Learning</a></li>
+                             
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(377).pdf" style="text-decoration:none;">Federated learning with hierarchical clustering of local updates to improve training on non-IID data</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(378).pdf" style="text-decoration:none;">A Review of Privacy-preserving Federated Learning for the Internet-of-Things</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(379).pdf" style="text-decoration:none;">SplitFed: When Federated Learning Meets Split Learning</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(380).pdf" style="text-decoration:none;">Privacy Preserving Distributed Machine Learning with Federated Learning </a></li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(192).pdf" style="text-decoration:none;">On the Convergence of Local Descent Methods in Federated Learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(193).pdf" style="text-decoration:none;">Age-Based Scheduling Policy for Federated Learning in Mobile Edge Networks. Federated learning </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(194).pdf" style="text-decoration:none;">Energy-Aware Analog Aggregation for Federated Learning with Redundant Data</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(195).pdf" style="text-decoration:none;">Federated Learning with Differential Privacy: Algorithms and Performance Analysis</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(196).pdf" style="text-decoration:none;">Robust Federated Learning with Noisy Communication</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(197).pdf" style="text-decoration:none;">Device Scheduling with Fast Convergence for Wireless Federated Learning</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(198).pdf" style="text-decoration:none;">A Crowdsourcing Framework for On-Device Federated Learning</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(199).pdf" style="text-decoration:none;">Enhancing the Privacy of Federated Learning with Sketching</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(200).pdf" style="text-decoration:none;">Federated Adversarial Domain Adaptation</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(201).pdf" style="text-decoration:none;">Asynchronous Online Federated Learning for Edge Devices with Non-IID Data</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(202).pdf" style="text-decoration:none;">Secure Federated Submodel Learning</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(203).pdf" style="text-decoration:none;">Energy Efficient Federated Learning Over Wireless Communication Networks</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(204).pdf" style="text-decoration:none;">Revocable Federated Learning: A Benchmark of Federated Forest</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(205).pdf" style="text-decoration:none;">L-FGADMM: Layer-Wise Federated Group ADMM for Communication Efficient Decentralized Deep Learning</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(206).pdf" style="text-decoration:none;">Practical Federated Gradient Boosting Decision Trees</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(207).pdf" style="text-decoration:none;">Privacy is WhatWe Care About: Experimental Investigation of Federated Learning on Edge Devices</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(208).pdf" style="text-decoration:none;">Hyper-Sphere Quantization: Communication-Efficient SGD for Federated Learning</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(209).pdf" style="text-decoration:none;">Federated Learning for Edge Networks: Resource Optimization and Incentive Mechanism</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(210).pdf" style="text-decoration:none;">Federated and Differentially Private Learning for Electronic Health Records</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(211).pdf" style="text-decoration:none;">Federated Learning for Healthcare Informatics</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(212).pdf" style="text-decoration:none;">Generative Models for Effective ML on Private, Decentralized Datasets</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(213).pdf" style="text-decoration:none;">Bandwidth Slicing to Boost Federated Learning in Edge Computing</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(214).pdf" style="text-decoration:none;">Information-Theoretic Perspective of Federated Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(215).pdf" style="text-decoration:none;">Can You Really Backdoor Federated Learning?</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(216).pdf" style="text-decoration:none;">Parallel Distributed Logistic Regression for Vertical Federated Learning without Third-Party Coordinator</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(217).pdf" style="text-decoration:none;">Federated Learning with Bayesian Differential Privacy</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(218).pdf" style="text-decoration:none;">Differentially Private
+Federated Variational Inference</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(219).pdf" style="text-decoration:none;">Federated Learning for Ranking Browser History Suggestions</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(220).pdf" style="text-decoration:none;">Local Model Poisoning Attacks to Byzantine-Robust Federated Learning</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(221).pdf" style="text-decoration:none;">SecureGBM: Secure Multi-Party Gradient Boosting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(222).pdf" style="text-decoration:none;">Free-riders in Federated Learning: Attacks and Defenses</a></li> 
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(223).pdf" style="text-decoration:none;">Federated Learning with Autotuned Communication-Efficient Secure Aggregation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(224).pdf" style="text-decoration:none;"> Preserving Patient Privacy while Training a Predictive Model of In-hospital Mortality </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(225).pdf" style="text-decoration:none;">A Quasi-Newton Method Based Vertical Federated Learning Framework for Logistic Regression </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(226).pdf" style="text-decoration:none;">Federated Learning with Personalization Layers</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(227).pdf" style="text-decoration:none;">An Introduction to Communication Efficient Edge Machine Learning </a></li> 
+  
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(228).pdf" style="text-decoration:none;">ELFISH: ResourceAware
+Federated Learning on Heterogeneous Edge Devices</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(229).pdf" style="text-decoration:none;">Learn Electronic Health Records by Fully Decentralized Federated Learning</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(230).pdf" style="text-decoration:none;">Privacy-Preserving Blockchain Based Federated Learning with Differential Data Sharing</a></li>  
+   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(231).pdf" style="text-decoration:none;">
+Advances and Open Problems in Federated Learning </a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(232).pdf" style="text-decoration:none;">Representation of Federated Learning via Worst-Case Robust Optimization Theory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(233).pdf" style="text-decoration:none;">HybridAlpha: An Efficient Approach for Privacy-Preserving Federated Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(234).pdf" style="text-decoration:none;">Parallel Restarted SPIDER - Communication Efficient Distributed Nonconvex Optimization with Optimal Computation Complexity</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(235).pdf" style="text-decoration:none;">Federated Learning with Multichannel ALOHA</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(236).pdf" style="text-decoration:none;">Toward an Automated Auction Framework for Wireless Federated Learning Services Market</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(237).pdf" style="text-decoration:none;">Private Federated Learning with Domain Adaptation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(238).pdf" style="text-decoration:none;"> Asynchronous Federated Learning with Differential Privacy for Edge Intelligence </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(239).pdf" style="text-decoration:none;">Primal-dual methods for large-scale and distributed convex optimization and data analytics</a></li>                             
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(240).pdf" style="text-decoration:none;">Distributed Fixed Point Methods
+with Compressed Iterates </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(241).pdf" style="text-decoration:none;">A Communication-Efficient Collaborative Learning Framework for Distributed Features</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(242).pdf" style="text-decoration:none;">Cronus: Robust and Heterogeneous Collaborative Learning with Black-Box Knowledge Transfer</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(243).pdf" style="text-decoration:none;">Attack-Resistant Federated Learning with Residual-based Reweighting</a></li>
+
+
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(244).pdf" style="text-decoration:none;">Towards Deep Federated Defenses Against Malware in Cloud Ecosystems</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(245).pdf" style="text-decoration:none;">Quantifying the Performance of Federated Transfer Learning</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(246).pdf" style="text-decoration:none;">Robust Federated Learning Through Representation Matching and Adaptive Hyper-parameters</a></li>   
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(247).pdf" style="text-decoration:none;">Federated Learning with Cooperating Devices: A Consensus Approach for Massive IoT Networks</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(248).pdf" style="text-decoration:none;">Robust Aggregation for Federated Learning</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(249).pdf" style="text-decoration:none;">Think Locally, Act Globally:
+Federated Learning with Local and Global Representations</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(250).pdf" style="text-decoration:none;">Federated Learning for Localization: A Privacy-Preserving Crowdsourcing Method</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(251).pdf" style="text-decoration:none;">FedDANE: A Federated Newton-Type Method</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(252).pdf" style="text-decoration:none;">iDLG: Improved Deep Leakage from Gradients</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(253).pdf" style="text-decoration:none;">Real-Time Edge Intelligence in the Making: A Collaborative Learning Framework via Federated Meta-Learning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(254).pdf" style="text-decoration:none;">Exploiting Unlabeled Data in Smart Cities using Federated Edge Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(255).pdf" style="text-decoration:none;">Adaptive Gradient Sparsification for Efficient Federated Learning: An Online Learning Approach</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(256).pdf" style="text-decoration:none;">Multi-site fMRI Analysis Using Privacy-preserving Federated Learning and Domain Adaptation: ABIDE Results </a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(257).pdf" style="text-decoration:none;">One-Bit Over-the-Air Aggregation for Communication-Efficient Federated Edge Learning: Design and Convergence Analysis</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(258).pdf" style="text-decoration:none;">FedVision: An Online Visual Object Detection Platform Powered by Federated Learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(259).pdf" style="text-decoration:none;">Combining Federated and Active Learning for Communication-efficient Distributed Failure Prediction in Aeronautics</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(260).pdf" style="text-decoration:none;">Convergence Time Optimization for Federated Learning over Wireless Networks</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(261).pdf" style="text-decoration:none;">Stratified cross-validation for unbiased and privacy-preserving federated learning</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(262).pdf" style="text-decoration:none;">Intermittent Pulling with Local Compensation for Communication-Efficient Federated Learning</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(263).pdf" style="text-decoration:none;">Overcoming Noisy and Irrelevant Data in Federated Learning</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(264).pdf" style="text-decoration:none;">RPN: A Residual Pooling Network for Efficient Federated Learning</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(265).pdf" style="text-decoration:none;">Communication Efficient Federated Learning over Multiple Access Channels</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(266).pdf" style="text-decoration:none;">TiFL: A Tier-based Federated Learning System</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(267).pdf" style="text-decoration:none;">Federated machine learning with
+Anonymous Random Hybridization (FeARH) on medical records</a></li>
+ 
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(268).pdf" style="text-decoration:none;">Convergence of Update Aware Device Scheduling for Federated Learning at the Wireless Edge</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(269).pdf" style="text-decoration:none;">Multi-Participant Multi-Class Vertical Federated Learning</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(270).pdf" style="text-decoration:none;">FOCUS: Dealing with Label Quality Disparity in Federated Learning</a></li>
+ 
+ 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(271).pdf" style="text-decoration:none;">Learning from Peers at the Wireless Edge</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(272).pdf" style="text-decoration:none;">Learning to Detect Malicious Clients for Robust Federated Learning</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(273).pdf" style="text-decoration:none;">Cooperative Learning via Federated Distillation over Fading Channels</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(274).pdf" style="text-decoration:none;">Knowledge Federation: A Unified and Hierarchical Privacy-Preserving AI Framework</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(275).pdf" style="text-decoration:none;">Faster On-Device Training Using New Federated Momentum Algorithm</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(276).pdf" style="text-decoration:none;">Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure Federated Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(277).pdf" style="text-decoration:none;">Salvaging Federated Learning by Local Adaptation</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(278).pdf" style="text-decoration:none;"> Federated Matrix Factorization: Algorithm Design and Application to Data Clusterin </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(279).pdf" style="text-decoration:none;">Towards Federated Learning: Robustness to Extremely Unbalanced Data for Edge Computing</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(280).pdf" style="text-decoration:none;">Wireless Federated Learning with Local Differential Privacy</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(281).pdf" style="text-decoration:none;">Federated Learning of a Mixture of Global and Local Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(282).pdf" style="text-decoration:none;">Federated Neural Architecture Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(283).pdf" style="text-decoration:none;">Federated Learning with Matched Averaging</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(284).pdf" style="text-decoration:none;">Federated Extra-Trees with Privacy Preserving</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(285).pdf" style="text-decoration:none;">Distributed Non-Convex Optimization with Sublinear Speedup under Intermittent Client Availability</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(286).pdf" style="text-decoration:none;">Distributed Optimization over Block-Cyclic Data</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(287).pdf" style="text-decoration:none;">Personalized Federated Learning: A Meta-Learning Approach</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(288).pdf" style="text-decoration:none;">Federated Learning in the Sky: Joint Power Allocation and Scheduling with UAV Swarms</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(289).pdf" style="text-decoration:none;">PrivacyFL: A simulator for privacy-preserving and secure federated learning</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(290).pdf" style="text-decoration:none;">Federated pretraining and fine tuning of BERT using clinical notes from multiple silos</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(291).pdf" style="text-decoration:none;">Dynamic Federated Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(292).pdf" style="text-decoration:none;">Uncertainty Principle for Communication Compression in Distributed and Federated Learning and the Search for an Optimal Compressor</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(293).pdf" style="text-decoration:none;">Anonymizing Data for Privacy-Preserving Federated Learning</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(294).pdf" style="text-decoration:none;">Overlap Local-SGD: An Algorithmic Approach to Hide Communication Delays in Distributed SGD</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(295).pdf" style="text-decoration:none;">Coded Federated Learning</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(296).pdf" style="text-decoration:none;">Communication-Efficient Edge AI: Algorithms and Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(297).pdf" style="text-decoration:none;">Communication-Efficient Decentralized Learning with Sparsification and Adaptive Peer Selection</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(298).pdf" style="text-decoration:none;">FMore: An Incentive Scheme of Multi-dimensional Auction for Federated Learning in MEC</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(299).pdf" style="text-decoration:none;">A Practical Privacy-preserving Method in Federated Deep Learning</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(300).pdf" style="text-decoration:none;">Federated Learning for Resource-Constrained IoT Devices: Panoramas and State-of-the-art</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(301).pdf" style="text-decoration:none;">Three Approaches for Personalization with Applications to Federated Learning</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(302).pdf" style="text-decoration:none;">Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(303).pdf" style="text-decoration:none;">Stochastic-Sign SGD for Federated Learning with Theoretical Guarantees</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(304).pdf" style="text-decoration:none;">Device Heterogeneity in Federated Learning: A Superquantile Approach</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(305).pdf" style="text-decoration:none;">HFEL: Joint Edge Association and Resource Allocation for Cost-Efficient Hierarchical Federated Edge Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(306).pdf" style="text-decoration:none;">LASG: Lazily Aggregated Stochastic Gradients for Communication-Efficient Distributed Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(307).pdf" style="text-decoration:none;">Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(308).pdf" style="text-decoration:none;">Towards Utilizing Unlabeled Data in Federated Learning: A Survey and Prospective </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(309).pdf" style="text-decoration:none;">FedCoin: A Peer-to-Peer Payment System for Federated Learning</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(310).pdf" style="text-decoration:none;">An On-Device Federated Learning Approach for Cooperative Anomaly Detection </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(311).pdf" style="text-decoration:none;">Decentralized Federated Learning via SGD over Wireless D2D Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(312).pdf" style="text-decoration:none;">Federated Over-the-Air Subspace Learning and Tracking from Incomplete Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(313).pdf" style="text-decoration:none;">Energy-Efficient Federated Edge Learning with Joint Communication and Computation Design</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(314).pdf" style="text-decoration:none;">Performance Analysis and Optimization in Privacy-Preserving Federated Learning</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(315).pdf" style="text-decoration:none;">Adaptive Federated Optimization</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(316).pdf" style="text-decoration:none;">Federating Recommendations Using Differentially Private Prototypes</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(317).pdf" style="text-decoration:none;">BASGD: Buffered Asynchronous SGD for Byzantine Learning</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(318).pdf" style="text-decoration:none;">Adaptive Federated Learning With Gradient Compression in Uplink NOMA</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(319).pdf" style="text-decoration:none;">Evaluation Framework For Large-scale Federated Learning</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Federated-Learning-Papers/blob/master/fed(320).pdf" style="text-decoration:none;">Gradient Statistics Aware Power Control for Over-the-Air Federated Learning</a></li> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  </ul>
 
